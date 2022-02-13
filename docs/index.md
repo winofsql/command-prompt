@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# command-prompt
 
-You can use the [editor on GitHub](https://github.com/winofsql/command-prompt/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## 80 x 24 のコマンドプロンプトの設定
+![image](https://user-images.githubusercontent.com/1501327/153741245-8efd3769-a8a7-4e1e-91f1-164e8d84d29c.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![image](https://user-images.githubusercontent.com/1501327/153741597-d8407498-5d4f-421e-9f44-a19543bfd835.png)
 
-### Markdown
+![image](https://user-images.githubusercontent.com/1501327/153741727-37baa8d8-cf44-42de-8d2f-c8291aaf26af.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 全画面表示のショートカット
+- **F11**
+- ALT + ENTER
+- CTRL + マウスホイールでフォントのサイズ変更
 
-```markdown
-Syntax highlighted code block
+## オプションのデフォルト
+![image](https://user-images.githubusercontent.com/1501327/153742032-5d629aa8-a463-49f1-adc5-6c0702482c9f.png)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/winofsql/command-prompt/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
