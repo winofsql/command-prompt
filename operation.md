@@ -15,4 +15,5 @@ dir c:\windows\system32 | more
 - 上矢印キーで以前のコマンド
 - 下矢印キーで次のコマンド
 - F7 で履歴一覧ダイアログより選択
+
 ![image](https://user-images.githubusercontent.com/1501327/153743506-ae7704a7-820b-4ee3-8f08-f33cf68a6731.png)
