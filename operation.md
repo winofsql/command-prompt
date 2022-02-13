@@ -2,9 +2,9 @@
 
 - マウスの左クリック( 再開は 右クリック )
 - 例) dir を一時停止
-```
-dir c:\windows\system32 | more
-```
   - スペースキーで１ページづつ
   - ENTER キーで１行づつ
   - CTRL + C で強制終了
+```
+dir c:\windows\system32 | more
+```
