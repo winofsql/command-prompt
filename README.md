@@ -6,3 +6,9 @@
 ![image](https://user-images.githubusercontent.com/1501327/153741597-d8407498-5d4f-421e-9f44-a19543bfd835.png)
 
 ![image](https://user-images.githubusercontent.com/1501327/153741727-37baa8d8-cf44-42de-8d2f-c8291aaf26af.png)
+
+## 全画面表示のショートカット
+- F11
+- ALT + ENTER
+
+
