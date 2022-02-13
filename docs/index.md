@@ -15,3 +15,6 @@
 ## 003 : オプションのデフォルト
 ![image](https://user-images.githubusercontent.com/1501327/153742032-5d629aa8-a463-49f1-adc5-6c0702482c9f.png)
 
+## ページリンク
+- [HOME](https://winofsql.github.io/command-prompt/)
+- [2page](https://winofsql.github.io/command-prompt/second.html)
