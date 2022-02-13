@@ -11,4 +11,6 @@
 - **F11**
 - ALT + ENTER
 
+## オプションのデフォルト
+![image](https://user-images.githubusercontent.com/1501327/153742032-5d629aa8-a463-49f1-adc5-6c0702482c9f.png)
 
