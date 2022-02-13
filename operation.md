@@ -4,7 +4,7 @@
 - 例) dir を一時停止
   - スペースキーで１ページづつ
   - ENTER キーで１行づつ
-  - CTRL + C で強制終了
+  - **CTRL + C で強制終了**
 ```
 dir c:\windows\system32 | more
 ```
