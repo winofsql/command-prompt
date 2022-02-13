@@ -8,3 +8,4 @@
 ```
 dir c:\windows\system32 | more
 ```
+![image](https://user-images.githubusercontent.com/1501327/153743100-78a030a9-93fd-46c7-8297-999d3c7c9fc8.png)
