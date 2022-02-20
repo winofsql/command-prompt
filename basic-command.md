@@ -67,7 +67,9 @@ DIR [ドライブ:][パス][ファイル名] [/A[[:]属性]] [/B] [/C] [/D] [/L]
 D:\>C: & cd \Program Files
 ```
 ドライブの変更は、ドライブレター + コロン
-<br>
+[ドライブレター](https://e-words.jp/w/%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%83%AC%E3%82%BF%E3%83%BC.html)
+
+<br><br>
 
 ```
 C:\Users\sworc>cd /?
